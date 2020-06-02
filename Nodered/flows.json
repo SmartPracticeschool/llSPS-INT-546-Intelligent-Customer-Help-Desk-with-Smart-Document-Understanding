@@ -1,0 +1,1 @@
+[{"id":"79fcaba3.4f7804","type":"watson-conversation-v1","z":"eab4eaf8.abe208","name":"Customer Assistant","workspaceid":"39a891b6-cf74-459a-8a61-195ec8dae9cf","multiuser":false,"context":false,"empty-payload":false,"service-endpoint":"https://api.eu-gb.assistant.watson.cloud.ibm.com/","timeout":"","optout-learning":false,"x":290,"y":260,"wires":[["ead32a6d.59c7d8"]]}]
